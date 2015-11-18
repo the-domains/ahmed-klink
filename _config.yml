@@ -1,0 +1,23 @@
+name: AHMED KLINK
+favicon: null
+layout_spectrum: 0.5832637797575444
+typography_spectrum: 0.5363994387444109
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.25138368969783187
+  lightness: 0.47693340107798576
+  saturation: 0.6687629641965032
+  rhythmicContrast: 0.8095113167073578
+purpose: []
